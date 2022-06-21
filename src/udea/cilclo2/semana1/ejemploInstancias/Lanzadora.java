@@ -1,4 +1,4 @@
-package udea.cilclo2.semana1.EjemploInstancias;
+package udea.cilclo2.semana1.ejemploInstancias;
 
 /*
     Esta clase será usada como nuestro main principal y desde acá se empezaran

@@ -1,4 +1,4 @@
-package udea.cilclo2.semana1.EjemploInstancias;
+package udea.cilclo2.semana1.ejemploInstancias;
 
 public class SegundaClase {
     

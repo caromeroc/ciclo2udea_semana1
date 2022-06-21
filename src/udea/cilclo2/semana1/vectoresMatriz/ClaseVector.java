@@ -1,4 +1,4 @@
-package udea.cilclo2.semana1.VectoresMatriz;
+package udea.cilclo2.semana1.vectoresMatriz;
 
 import java.util.Vector;
 
