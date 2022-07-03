@@ -4,7 +4,6 @@ package udea.cilclo2.semana1.vectoresMatriz;
 public class Matriz {
     
     
-    
     public static void main(String[] args) {
         
        // {3.1, 4.1, 2.1, 1.1, 5.0}
@@ -18,6 +17,7 @@ public class Matriz {
         notas[3] = 1.1;
         notas[4] = 5.0;
         
+                
         System.out.println(" Longitud ::  " + notas.length);
         
         for (double i : notas) {

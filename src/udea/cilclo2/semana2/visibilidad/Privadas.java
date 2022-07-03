@@ -13,6 +13,8 @@ public class Privadas {
 
 
     public static void main(String[] args) {
+        
+        
         // uso de variable dentro de la misma clase
         System.out.println(" " + apellidoVar);
         

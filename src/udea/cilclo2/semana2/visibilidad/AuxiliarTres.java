@@ -9,6 +9,7 @@ public class AuxiliarTres {
 
     public static void main(String[] args) {
 
+        
         // Creamos un objeto de la clase Privadas
         Privadas objPri = new Privadas();
 

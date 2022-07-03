@@ -7,6 +7,8 @@ public class VariablesMomentos {
                Momento 2 Inicialización
                Momento 3 Uso 
      */
+    
+    public String nombre1 = "Pepe";
     public static void main(String[] args) {
 
         //Declaración
@@ -14,10 +16,15 @@ public class VariablesMomentos {
 
         // Inicialización
         nombre = "Carlos ";
+        
 
         // Uso
-        System.err.println("Mi nombre es  : " + nombre);
+       // System.err.println("Mi nombre es  : " + nombre);
 
+       VariablesMomentos obj1 = new VariablesMomentos();
+        
+         System.out.println("¡ Hola " + obj1.nombre1 + "!");
+        
     }
 
 }
